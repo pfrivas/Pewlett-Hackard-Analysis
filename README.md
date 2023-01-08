@@ -19,7 +19,6 @@ The employee database analysis was conducted with QBD, PostgresSQL and pgadmin4
 ![image](https://user-images.githubusercontent.com/110814780/211191878-e3badb22-5b53-4233-8e48-1445de008a88.png)
 
 - Our [retiring_titles](https://github.com/pfrivas/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv) shows us that about 64% of the retirment age employees ((57,668 out of 90,398) have senior titles.
-![image](https://user-images.githubusercontent.com/110814780/211191893-e8b30335-5743-43ca-8b94-384349c04e90.png)
 
 ### The Employees Eligible for the Mentorship Program
 - 
