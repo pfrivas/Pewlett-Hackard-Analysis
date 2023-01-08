@@ -21,7 +21,7 @@ The employee database analysis was conducted with QBD, PostgresSQL and pgadmin4
 <img width="383" alt="Screen Shot 2023-01-08 at 2 55 54 AM" src="https://user-images.githubusercontent.com/110814780/211192331-24cfb1c4-16bb-45ac-b779-f4fc9b3333c1.png">
 
 ### The Employees Eligible for the Mentorship Program
-- The [mentorship_eligibility](https://github.com/pfrivas/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) table shows that most employees that qualify for the mentorship program have senior titles.
+- The [mentorship_eligibility](https://github.com/pfrivas/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) table shows that there are 1550 employees that qualify for the mentorship program with most of them having senior titles.
 
 
 ## Summary
